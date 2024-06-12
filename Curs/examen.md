@@ -169,7 +169,7 @@ Acm = este amplificarea semnalului de mod comun.
 
 Importanța CMMR constă în capacitatea sa de a asigura că amplificatoarele diferențiale pot respinge eficient zgomotul de mod comun, garantând astfel precizia și fiabilitatea măsurătorilor și semnalelor în diverse aplicații electronice.
 
-# 14) Filtrarea semnalelor și la ce este utilă și precizati doua tipuri de filtre pe care le cunoasteti (trece-jos și trece-sus și ce înseamnă fiecare și caracteristică de trece in frecventa)
+# 15) Filtrarea semnalelor și la ce este utilă și precizati doua tipuri de filtre pe care le cunoasteti (trece-jos și trece-sus și ce înseamnă fiecare și caracteristică de trece in frecventa)
 
 Filtrarea semnalelor este un proces esențial în diverse domenii ale ingineriei și științei, inclusiv în telecomunicații, electronică, procesarea semnalelor și analiza datelor.
 
